@@ -1,0 +1,49 @@
+body{
+    font-family: 'Hiragino Kaku Gothic Pro','Meiryo','sans-seirf';
+    font-size: 15px;
+    border-top: 10px solid #79a1b1;
+}
+.title{
+    width: 1200px;
+}
+.title h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 1000;
+}
+.description h2{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: 1000;
+    margin-bottom: 10px;
+}
+.recommend h3{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 1000;
+    margin-bottom: 10px;
+}
+.link{
+    font-weight: 900;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.copy {
+    margin-top: 60px;
+    text-align: center;
+    background: #79a1b1;
+    color: #fff;
+    font-size: 12px;
+    padding: 7px 0px 3px;
+}
+.link img{
+    width: 500px;
+    height: auto;
+}
+.x a{
+    color: rgb(46, 5, 150);
+    text-decoration:underline solid 1px rgb(46, 5, 150);
+    padding: 2px 2px 0px;
+}
